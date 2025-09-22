@@ -85,7 +85,7 @@
 `Python` `Pandas` `numpy` `Matplotlib` `konlpy`
 
 ### 🔗 GitHub 저장소
-[GitHub 저장소 보기]([GitHub 저장소 링크])
+[GitHub 저장소 보기]([GitHub 저장소 링크])https://github.com/siwon456/Personal_project
 
 
 **현재 학습 중인 기술**

@@ -1,5 +1,5 @@
 # 안녕하세요! 👋
-저는 백엔드 개발자를 꿈꾸는 (당신의 닉네임 또는 이름)입니다.
+저는 백엔드 개발자를 꿈꾸는 (김시원)입니다.
 
 ### 📚 학습 및 프로젝트
 **진행중인 프로젝트**
@@ -76,17 +76,6 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   
-</div>
-
----
-
-### 📊 깃허브 통계 및 활동
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" />
-</div>
-
-<div align="left">
-  <img src="http://github-profile-summary-for-users.vercel.app/api/github/profile/your-github-username" />
 </div>
 
 ---

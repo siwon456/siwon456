@@ -45,7 +45,6 @@
 
 깃허브 링크: https://github.com/siwon456/TransLearning/blob/main/README.md?plain=1
 
----
 
 **현재 학습 중인 기술**
 

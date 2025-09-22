@@ -92,4 +92,5 @@
 ---
 
 ### 🔗 연락처
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cldl0314@gmail.com)
+010-5596-7981
+cldl0314@gmail.com

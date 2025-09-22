@@ -1,5 +1,8 @@
 ### 안녕하세요! 👋
 AI 개발자를 꿈꾸는 김시원 입니다.
+
+### 💻 기술 스택
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,docker,kubernetes,aws)](https://skillicons.dev)
 <!--
 **siwon456/siwon456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

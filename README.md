@@ -25,7 +25,7 @@
 `Java Spring` `JavaScript` `Oracle` `Git` `Python`
 
 ### 🔗 GitHub 저장소
-[[GitHub 저장소 보기]([GitHub 저장소 링크])]（https://github.com/Minsoolee12345/LMS_plus））
+[[GitHub 저장소 보기]([GitHub 저장소 링크])](https://github.com/Minsoolee12345/LMS_plus))
 
 ---
 

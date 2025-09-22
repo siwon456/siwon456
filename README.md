@@ -65,7 +65,7 @@
 `Python` `Pandas` `Matplotlib` `konlpy`
 
 ### 🔗 GitHub 저장소
-[GitHub 저장소 보기]([GitHub 저장소 링크])
+[[GitHub 저장소 보기]([GitHub 저장소 링크]](https://github.com/siwon456/text_emotion_model))
 
 ---
 
